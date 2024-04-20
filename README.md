@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### I am currently learning GitHub branching and versining
+## I am enhancing my skills in Test Automation using Selenium and Java
+
+##### Fact: Contribute more than consume
+
 <!--
 **Arunav-test/Arunav-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
